@@ -1,0 +1,14 @@
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.AssemblyInfoInputs.cache
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.AssemblyInfo.cs
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.csproj.CoreCompileInputs.cache
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\bin\Debug\net8.0\Rahul.exe
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\bin\Debug\net8.0\Rahul.deps.json
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\bin\Debug\net8.0\Rahul.runtimeconfig.json
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\bin\Debug\net8.0\Rahul.dll
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\bin\Debug\net8.0\Rahul.pdb
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.dll
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\refint\Rahul.dll
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.pdb
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\Rahul.genruntimeconfig.cache
+C:\Users\rahul.murugavel\Desktop\repos\Rahul1\Rahul\obj\Debug\net8.0\ref\Rahul.dll
